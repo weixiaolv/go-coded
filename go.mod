@@ -1,4 +1,4 @@
-module github.com/ugorji/go
+module go.weixiaolv.cn/open/go
 
 go 1.13
 
