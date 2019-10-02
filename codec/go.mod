@@ -1,5 +1,5 @@
-module go.weixiaolv.cn/open/go/codec
+module github.com/weixiaolv/go-coded/codec
 
 go 1.13
 
-require go.weixiaolv.cn/open/go v0.0.2
+require github.com/weixiaolv/go-coded v0.0.2

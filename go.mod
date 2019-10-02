@@ -1,4 +1,4 @@
-module go.weixiaolv.cn/open/go
+module github.com/weixiaolv/go-coded
 
 go 1.13
 
